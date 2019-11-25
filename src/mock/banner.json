@@ -1,7 +1,7 @@
 {
     "type" : "banner",
     "code" : 0,
-    "bannerList" : [
+    "banner_list" : [
         {
             "imgUrl" : "https://fms.res.meizu.com/dms/2019/11/21/165212ac-103e-4699-b96d-84f19d24d253.jpg",
             "imgLink" : "https://www.meizu.com/accessory/hd60.html"

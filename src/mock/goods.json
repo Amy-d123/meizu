@@ -2,7 +2,7 @@
     "type" : "goods",
     "title" : "产品",
     "code" : 0,
-    "goodsList" : [
+    "goods_list" : [
         {
             "goodsImg" : "https://fms.res.meizu.com/dms/2019/11/21/52e9cf75-cb29-422b-907a-0e100a566522.jpg",
             "goodsId" : "1212",

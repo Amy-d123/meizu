@@ -1,12 +1,31 @@
 
-//发起所有ajax的底层工具，统一管理的页面、拿到banner的数据
-define(['jquery' , '../server/main' , './modules/banner'] , function($, {getBannerData} , {bannerInit}) {
 
-    // 首页banner操作
+define(['jquery' , '../server/main' , './modules/head' , './modules/banner' , './modules/goods'],function($ , { getBannerData , getGoodsData , isLogin } , {headInit} , { bannerInit } , { goodsInit }){
+
+
+    //首页Banner操作
     getBannerData().then(function(res){
-        // console.log(res)
-        bannerInit(res)
-    })
+        bannerInit(res);
+    });
+
+    getGoodsData('goods').then(function(res){
+        goodsInit('goods' , res);
+    });
 
 
-})
+    getGoodsData('listen').then(function(res){
+        goodsInit('listen' , res);
+    });
+
+
+    getGoodsData('phone').then(function(res){
+        goodsInit('phone' , res);
+    });
+
+    //是否登录
+
+    // isLogin().then(function(res){
+    //     console.log( res );
+    // });
+
+});

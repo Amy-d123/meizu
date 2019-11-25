@@ -1,37 +1,42 @@
-
-#banner{
-    .banner_imgs{
-        height:550px;
+#banner {
+    .banner_imgs {
+        height: 680px;
         position: relative;
-        li{
+
+        li {
             @extend #pos-0;
             display: none;
-            width:100%;
-            &:first-child{
+            width: 100%;
+
+            &:first-child {
                 display: block;
             }
-            img{
+
+            img {
                 position: relative;
-                left:50%;
-                margin-left: - (1920px / 2); 
+                left: 50%;
+                margin-left: - (2560px / 2);
             }
         }
     }
-    .banner_dots{
+
+    .banner_dots {
         position: absolute;
-        right : 50px;
-        bottom: 50px;
+        left: 50%;
+        bottom: 20px;
         z-index: 200;
-        li{
+
+        li {
             float: left;
-            width:10px;
-            height:10px;
+            width: 10px;
+            height: 10px;
             border-radius: 50%;
-            border:1px white solid;
-            margin:7px;
+            border: 1px white solid;
+            margin: 7px;
             cursor: pointer;
-            &.active{
-                background:white;
+
+            &.active {
+                background: white;
             }
         }
     }
@@ -46,25 +51,69 @@
 //     top:-80px;
 // }
 
-#phone,#book,#pad{
-    ul{
+#phone,
+#book,
+#pad {
+    ul {
         margin-top: 30px;
-        width:1210px;
+        width: 1210px;
         text-align: center;
-        li{
-            float:left;
-            width:232px;
-            height:290px;
-            margin-right:10px;
+
+        li {
+            float: left;
+            width: 232px;
+            height: 290px;
+            margin-right: 10px;
             margin-bottom: 10px;
+
             // background : #c36;
-            img{
+            img {
                 @extend #wh-100;
             }
         }
     }
-    h2{
-        font-size:30px;
-        margin:10px;
+
+    h2 {
+        font-size: 30px;
+        margin: 10px;
+    }
+}
+
+.index-container {
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    .section_box_nav {
+        padding-bottom: 45px;
+        // height: 450px;
+        overflow: hidden;
+        .four_ad {
+            overflow: hidden;
+            padding-top: 45px;
+            li {
+                // width : 310px;
+                width: 25%;
+                height : 187px;
+                float: left;
+                // position: relative;
+                // background: #b57;
+                // border-right : 1px solid #333;
+                text-align: center;
+                img{
+                    display: block;
+                    margin : 0 auto;
+                    width:130px;
+                    height : 130px;
+                }
+                p{
+                    text-align: center;
+                    font-size : 14px;
+                    color : #999;
+                }
+                em{
+                    font-size : 20px;
+                    color : #333;
+                }
+            }
+        }
     }
 }

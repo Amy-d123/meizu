@@ -12,7 +12,7 @@
     <script>
         requirejs.config({
             paths: {
-                "jquery": "../lib/jquery-3.4.1"
+                "jquery": "../lib/jquery-3.4.1.min"
             }
         })
 
@@ -24,28 +24,69 @@
     @include('head.html')
    
     <div id="banner" class="container">
-            <ul class="banner_imgs"></ul>
-            <ol class="banner_dots"></ol>
+        <ul class="banner_imgs"></ul>
+        <ol class="banner_dots"></ol>
 
-            <div class="banner_btn_left"></div>
-            <div class="banner_btn_right"></div>
-        </div>
-        <!-- <div class="mask"></div>
-        <div id="phone" class="container"> -->
-            <!-- <h2>手机</h2>
-            <ul class="phone_list">
-                <li>
+    </div>
+
+    <div class="index-container">
+        <div class="section_box_nav container">
+            <ul class="four_ad">
+                <!-- <li class="adv_box_1">
                     <a href="#">
-                        <div><img src="../static/phone1.png" alt=""></div>
-                        <h3>荣耀V20</h3>
-                        <p>¥1699</p>
+                        <img src="../static/beforre (4).png" alt="">
+                        <em>配件狂欢购</em>
+                        <p>领券最高可减100元</p>
+                    </a>
+                </li> -->
+                <!-- <li class="adv_box_1">
+                    <a href="#">
+                        <img src="../static/beforre (7).png" alt="">
+                        <em>魅族16T</em>
+                        <p>日光橙限量现货开售</p>
                     </a>
                 </li>
-            </ul> -->
-        <!-- </div> -->
-        <!-- <div id="book" class="container"></div>
-        <div id="pad" class="container"></div> -->
-    @include('footer.html')
+                <li class="adv_box_1">
+                    <a href="#">
+                        <img src="../static/beforre (4).jpg" alt="">
+                        <em>魅族 16s Pro</em>
+                        <p>暮光森林来了</p>
+                    </a>
+                </li>
+                <li class="adv_box_1">
+                    <a href="#">
+                        <img src="../static/beforre (2).jpg" alt="">
+                        <em>mCycle</em>
+                        <p>以旧换新</p>
+                    </a>
+                </li>-->
+            </ul> 
+        </div>
+    </div>
+    
+
+
+    <!-- <div class="section-box-row">
+        <div class="index-center-wrapper">
+            <ul>
+                <li class="big">
+
+                </li>
+                <li class="big">
+
+                </li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </div>
+    </div> -->
+    @include('foot.html')
     <!-- http://localhost:3000/views/index.html# -->
 </body>
 

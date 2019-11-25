@@ -2,7 +2,7 @@
     "type" : "phone",
     "title" : "手机",
     "code" : 0,
-    "goodsList" : [
+    "goods_list" : [
         {
             "goodsImg" : "https://openfile.meizu.com/group1/M00/07/87/Cgbj0V3U7gOAPBz7AAi2bv3GS9Q690.png",
             "goodsId" : "1111111111",
