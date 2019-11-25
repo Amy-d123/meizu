@@ -1,0 +1,39 @@
+{
+    "type" : "banner",
+    "code" : 0,
+    "bannerList" : [
+        {
+            "imgUrl" : "https://fms.res.meizu.com/dms/2019/11/21/165212ac-103e-4699-b96d-84f19d24d253.jpg",
+            "imgLink" : "https://www.meizu.com/accessory/hd60.html"
+        },
+        {
+            "imgUrl" : "https://fms.res.meizu.com/dms/2019/11/21/c7aedd1e-5ccc-4769-982d-120628fdcf34.jpg",
+            "imgLink" : "https://hd.meizu.com/sale/peijiangoukuanghuan.html"
+        },
+        {
+            "imgUrl" : "https://fms.res.meizu.com/dms/2019/11/07/31ab40fd-0c04-469f-afcf-fda21b5b6dd8.jpg",
+            "imgLink" : "https://detail.meizu.com/item/meizu16spro.html"
+        },
+        {
+            "imgUrl" : "https://fms.res.meizu.com/dms/2019/11/11/dd1dc8a2-2477-41eb-823d-162cdeaee541.jpg",
+            "imgLink" : "https://detail.meizu.com/item/meizux8.html"
+        },
+        {
+            "imgUrl" : "https://fms.res.meizu.com/dms/2019/11/12/5114ad54-730a-4183-a835-8d5b48e2cdd9.jpg",
+            "imgLink" : "https://detail.meizu.com/item/meizunote9.html"
+        },
+        {
+            "imgUrl" : "https://fms.res.meizu.com/dms/2019/11/11/9592ad09-5ff8-4147-b68f-624c06d12ce8.jpg",
+            "imgLink" : "https://detail.meizu.com/item/meizu16th.html"
+        },
+        {
+            "imgUrl" : "https://fms.res.meizu.com/dms/2019/11/12/e5dbc2b9-95b6-4fcc-a894-fcf4b78fd6e9.jpg",
+            "imgLink" : "https://detail.meizu.com/item/meizu16xs.html"
+        },
+        {
+            "imgUrl" : "https://fms.res.meizu.com/dms/2019/10/23/4eb05fa9-a350-4e4c-8e7b-8d05428f965d.jpg",
+            "imgLink" : "https://www.meizu.com/accessory/hd60.html"
+        }
+
+    ]
+}

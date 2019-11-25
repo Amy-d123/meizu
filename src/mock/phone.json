@@ -1,0 +1,67 @@
+{
+    "type" : "phone",
+    "title" : "手机",
+    "code" : 0,
+    "goodsList" : [
+        {
+            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/87/Cgbj0V3U7gOAPBz7AAi2bv3GS9Q690.png",
+            "goodsId" : "1111111111",
+            "goodsName" : "魅族 16T",
+            "goodsPrice" : 1999,
+            "goodsColor" : ["鲸跃蓝","湖光绿","日光橙"],
+            "goodsDescribe" : "6.5英寸极边全面屏 | 骁龙855旗舰处理器",
+            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/70/Cgbj0F3U60-AK1TiAAi2bv3GS9Q805.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/86/Cgbj0V3U5-GAZ8OiAAR7AHDl4qY695.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upy-AHO-iAASbAcADm5w480.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upyeAP-XCAAIGW8_W4LU613.png680x680.jpg"],
+            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/70/Cgbj0F3U60-AK1TiAAi2bv3GS9Q805.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/86/Cgbj0V3U5-GAZ8OiAAR7AHDl4qY695.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upy-AHO-iAASbAcADm5w480.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upyeAP-XCAAIGW8_W4LU613.png120x120.jpg"],
+            "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upxqANyVFAAjApUYA58w668.png80x80.png" , "//openfile.meizu.com/group1/M00/07/62/Cgbj0F2upwyAKqQSAAlGpvLiEdc809.png80x80.png" , "//openfile.meizu.com/group1/M00/07/87/Cgbj0V3U7gOAPBz7AAi2bv3GS9Q690.png80x80.png"]
+
+        },
+        {
+            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhu-AaV4AAAlk4z4lkt0463.png",
+            "goodsId" : "2222222222",
+            "goodsName" : "魅族 16s Pro",
+            "goodsPrice" : 2699,
+            "goodsColor" : ["黑之谧镜","梦幻独角兽","暮光森林" , "白色物语"],
+            "goodsDescribe" : "高通骁龙 855 Plus  | 索尼 4800W 像素超广角 AI 三摄",
+            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/70/Cgbj0F3U60-AK1TiAAi2bv3GS9Q805.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jht2AQ8pwAAMgtAqoM4E365.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuWATWiEAAU9adhvEJs606.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhuCAAGfqAAKANIM7ChM406.png680x680.jpg"],
+            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuqADaMyAAlvEHNfjUE482.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jht2AQ8pwAAMgtAqoM4E365.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuWATWiEAAU9adhvEJs606.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhuCAAGfqAAKANIM7ChM406.png120x120.jpg"],
+            "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhtuAa71pAAd3EPLUA9Q862.png80x80.png" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhtuAa71pAAd3EPLUA9Q862.png80x80.png" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuqADaMyAAlvEHNfjUE482.png80x80.png" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhs-AUdjQAAliy8tVZ28415.png80x80.png"]
+
+        },
+        {
+            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK6AaEObAAa1DJqn7us376.png",
+            "goodsId" : "3333333333",
+            "goodsName" : "魅族 Note9",
+            "goodsPrice" : 1199,
+            "goodsColor" : ["幻黑","皓白","星耀蓝" ],
+            "goodsDescribe" : "骁龙675 后置4800万",
+            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKaAHKKzAANLbi_Jh9A009.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK2AeLuGAAOGkMdE1x4601.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZK6AMuFWAAInES6rB6g430.png680x680.jpg"],
+            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKaAHKKzAANLbi_Jh9A009.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK2AeLuGAAOGkMdE1x4601.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZK6AMuFWAAInES6rB6g430.png120x120.jpg"],
+            "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK6AaEObAAa1DJqn7us376.png80x80.png" , "//openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKSATnTJAAU3Ca8M6D8964.png80x80.png" , "//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZMCAdyF9AAbOHZSdVO8974.png80x80.png" ]
+
+        },
+        {
+            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/3B/Cgbj0VzaXQqAMN2pAAa47vx50YU413.png",
+            "goodsId" : "4444444444",
+            "goodsName" : "魅族 16s",
+            "goodsPrice" : 2699,
+            "goodsColor" : ["碳纤黑","凝光白","幻影蓝" ],
+            "goodsDescribe" : "骁龙855 4800W光学防抖",
+            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9czeAB1b0AAbEyeUfNvI853.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyCAFTiJAALUkAwtnM0798.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyiAapmYAAPdKnA-Nq4341.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9cy-AQHw_AAItbvBkEag325.png680x680.jpg"],
+            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9czeAB1b0AAbEyeUfNvI853.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyCAFTiJAALUkAwtnM0798.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyiAapmYAAPdKnA-Nq4341.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9cy-AQHw_AAItbvBkEag325.png120x120.jpg"],
+            "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/3B/Cgbj0VzaXQqAMN2pAAa47vx50YU413.png80x80.png" , "//openfile.meizu.com/group1/M00/07/23/Cgbj0FzaXQqAH-L3AAeSSra0qAg862.png80x80.png" , "//openfile.meizu.com/group1/M00/07/23/Cgbj0FzaXQqAH-L3AAeSSra0qAg862.png80x80.png" ]
+
+        },
+        {
+            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRI6AWu1jAAxIbnS8M5Q295.png",
+            "goodsId" : "5555555555",
+            "goodsName" : "魅族 16Xs",
+            "goodsPrice" : 1499,
+            "goodsColor" : ["骑士黑","亚特兰蒂斯","珊瑚橙" , "冰丝白" ],
+            "goodsDescribe" : "4800W AI三摄 | 屏幕下指纹",
+            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRKCAKQ5vAAi2dZyo2v4915.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRJOAH5vQAAP_QK7Ul4k243.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRJmAOgyGAAPipjypbO0910.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRJqAExiOAAInDU9H8k8923.png680x680.jpg"],
+            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRKCAKQ5vAAi2dZyo2v4915.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRJOAH5vQAAP_QK7Ul4k243.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRJmAOgyGAAPipjypbO0910.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRJqAExiOAAInDU9H8k8923.png120x120.jpg"],
+            "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRJ-AWr44AAiGUPbS22w583.png80x80.png" , "//openfile.meizu.com/group1/M00/07/2D/Cgbj0FzvRKyAcTmAAAiLh3fsE44680.png80x80.png" , "//openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRI6AWu1jAAxIbnS8M5Q295.png80x80.png" , "//openfile.meizu.com/group1/M00/07/43/Cgbj0VzvRISAOIAGAAanXG4x5QM415.png80x80.png"]
+
+        }
+    ]
+}

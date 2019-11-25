@@ -1,0 +1,41 @@
+{
+    "type" : "listen",
+    "title" : "魅族声学",
+    "code" : 0,
+    "goodsList" : [
+        {
+            "goodsImg" : "https://fms.res.meizu.com/dms/2019/10/23/370ad36f-425c-453a-b406-ccb2a0dffeec.jpg",
+            "goodsId" : "666",
+            "goodsName" : "MEIZU UR 高端定制耳机  预约",
+            "goodsPrice" : 200,
+            "goodsDescribe" : "【预约专用】私人定制，为你而声",
+            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/4D/Cgbj0F1l7zeAFyLsAAZJk_cF8Tk126.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/64/Cgbj0V1l7zGAcVpVAAW9Pwx9c2s248.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/64/Cgbj0V1l7zGAXJDDAAWk1OcsLqQ828.jpg680x680.jpg" , "//openfile.meizu.com/group1/M00/07/4D/Cgbj0F1l7zGAEchIAAWAHw9PTOQ714.jpg680x680.jpg"],
+            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/4D/Cgbj0F1l7zeAFyLsAAZJk_cF8Tk126.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/64/Cgbj0V1l7zGAcVpVAAW9Pwx9c2s248.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/64/Cgbj0V1l7zGAXJDDAAWk1OcsLqQ828.jpg120x120.jpg" , "//openfile.meizu.com/group1/M00/07/4D/Cgbj0F1l7zGAEchIAAWAHw9PTOQ714.jpg120x120.jpg"],
+            "version" : ["四单元 2699起" , "六单元 3699起" , "八单元 5699起" , "十单元 8699起"]
+        },
+        {
+            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png",
+            "goodsId" : "777",
+            "goodsName" : "魅族 POP2 真无线蓝牙耳机",
+            "goodsPrice" : 200,
+            "goodsColor" : ["皓月白"],
+            "goodsDescribe" : "【限时3期免息】蓝牙5.0 超长续航",
+            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq2APvH6AAdH__FYS70825.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/11/Cgbj0Fy9JrWAQoMcAAWBvkANrpk395.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/10/Cgbj0Fy9Jq2AKhHuAAWZaHnonI8160.jpg680x680.jpg"],
+            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq2APvH6AAdH__FYS70825.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/11/Cgbj0Fy9JrWAQoMcAAWBvkANrpk395.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/11/Cgbj0Fy9JrWAQoMcAAWBvkANrpk395.png120x120.jpg"],
+            "photoDesSmall" : "//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png80x80.png",
+            "version" : ["POP2" , "EP63NC" , "EP52 Lite" , "HALO" , "HD60"]
+        },
+        {
+            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png",
+            "goodsId" : "888",
+            "goodsName" : "魅族 HIFI 解码耳放",
+            "goodsPrice" : 169,
+            "goodsColor" : ["皓月白"],
+            "goodsDescribe" : "高性能DAC芯片",
+            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3WAD8y0AACiEridFPM095.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3GAFYZvAAocEw4d3t4378.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAaSoPAAwmNW0QQ1M938.png680x680.jpg"],
+            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3WAD8y0AACiEridFPM095.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3GAFYZvAAocEw4d3t4378.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAaSoPAAwmNW0QQ1M938.png120x120.jpg"],
+            "photoDesSmall" : "//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png80x80.png",
+            "version" : ["HIFI 解码耳放" , "HiFi 解码耳放 PRO"]
+        }
+    ]
+}

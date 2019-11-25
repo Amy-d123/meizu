@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/all.css">
+    <script src="../lib/require.js" data-main="../js/index.js"></script>
+    <!-- <script src="../lib/jquery-3.4.1.min.js"></script> -->
+    <script>
+        requirejs.config({
+            paths: {
+                "jquery": "../lib/jquery-3.4.1"
+            }
+        })
+
+    </script>
+</head>
+
+<body>
+    <!-- view-source:https://www.meizu.com/index.html -->
+    @include('head.html')
+   
+    <div id="banner" class="container">
+            <ul class="banner_imgs"></ul>
+            <ol class="banner_dots"></ol>
+
+            <div class="banner_btn_left"></div>
+            <div class="banner_btn_right"></div>
+        </div>
+        <!-- <div class="mask"></div>
+        <div id="phone" class="container"> -->
+            <!-- <h2>手机</h2>
+            <ul class="phone_list">
+                <li>
+                    <a href="#">
+                        <div><img src="../static/phone1.png" alt=""></div>
+                        <h3>荣耀V20</h3>
+                        <p>¥1699</p>
+                    </a>
+                </li>
+            </ul> -->
+        <!-- </div> -->
+        <!-- <div id="book" class="container"></div>
+        <div id="pad" class="container"></div> -->
+    @include('footer.html')
+    <!-- http://localhost:3000/views/index.html# -->
+</body>
+
+</html>
