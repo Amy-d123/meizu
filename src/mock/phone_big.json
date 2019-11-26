@@ -26,31 +26,6 @@
             "photoSmall" : ["//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuqADaMyAAlvEHNfjUE482.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jht2AQ8pwAAMgtAqoM4E365.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuWATWiEAAU9adhvEJs606.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhuCAAGfqAAKANIM7ChM406.png120x120.jpg"],
             "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhtuAa71pAAd3EPLUA9Q862.png80x80.png" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhtuAa71pAAd3EPLUA9Q862.png80x80.png" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuqADaMyAAlvEHNfjUE482.png80x80.png" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhs-AUdjQAAliy8tVZ28415.png80x80.png"]
 
-        },
-        {
-            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK6AaEObAAa1DJqn7us376.png",
-            "goodsId" : "3333333333",
-            "goodsName" : "魅族 Note9",
-            "goodsPrice" : 1199,
-            "goodsColor" : ["幻黑","皓白","星耀蓝" ],
-            "goodsDescribe" : "骁龙675 后置4800万",
-            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKaAHKKzAANLbi_Jh9A009.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK2AeLuGAAOGkMdE1x4601.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZK6AMuFWAAInES6rB6g430.png680x680.jpg"],
-            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKaAHKKzAANLbi_Jh9A009.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK2AeLuGAAOGkMdE1x4601.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZK6AMuFWAAInES6rB6g430.png120x120.jpg"],
-            "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK6AaEObAAa1DJqn7us376.png80x80.png" , "//openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKSATnTJAAU3Ca8M6D8964.png80x80.png" , "//openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZMCAdyF9AAbOHZSdVO8974.png80x80.png" ]
-
-        },
-        {
-            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/3B/Cgbj0VzaXQqAMN2pAAa47vx50YU413.png",
-            "goodsId" : "4444444444",
-            "goodsName" : "魅族 16s",
-            "goodsPrice" : 2699,
-            "goodsColor" : ["碳纤黑","凝光白","幻影蓝" ],
-            "goodsDescribe" : "骁龙855 4800W光学防抖",
-            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9czeAB1b0AAbEyeUfNvI853.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyCAFTiJAALUkAwtnM0798.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyiAapmYAAPdKnA-Nq4341.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9cy-AQHw_AAItbvBkEag325.png680x680.jpg"],
-            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9czeAB1b0AAbEyeUfNvI853.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyCAFTiJAALUkAwtnM0798.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyiAapmYAAPdKnA-Nq4341.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9cy-AQHw_AAItbvBkEag325.png120x120.jpg"],
-            "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/3B/Cgbj0VzaXQqAMN2pAAa47vx50YU413.png80x80.png" , "//openfile.meizu.com/group1/M00/07/23/Cgbj0FzaXQqAH-L3AAeSSra0qAg862.png80x80.png" , "//openfile.meizu.com/group1/M00/07/23/Cgbj0FzaXQqAH-L3AAeSSra0qAg862.png80x80.png" ]
-
         }
-        
     ]
 }

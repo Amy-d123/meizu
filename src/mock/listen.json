@@ -36,6 +36,18 @@
             "photoSmall" : ["//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3WAD8y0AACiEridFPM095.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3GAFYZvAAocEw4d3t4378.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAaSoPAAwmNW0QQ1M938.png120x120.jpg"],
             "photoDesSmall" : "//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png80x80.png",
             "version" : ["HIFI 解码耳放" , "HiFi 解码耳放 PRO"]
+        },
+        {
+            "goodsImg" : "https://openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png",
+            "goodsId" : "888",
+            "goodsName" : "魅族 HIFI 解码耳放",
+            "goodsPrice" : 169,
+            "goodsColor" : ["皓月白"],
+            "goodsDescribe" : "高性能DAC芯片",
+            "photoLarge" : ["//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3WAD8y0AACiEridFPM095.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3GAFYZvAAocEw4d3t4378.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAaSoPAAwmNW0QQ1M938.png680x680.jpg"],
+            "photoSmall" : ["//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3WAD8y0AACiEridFPM095.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/18/Cgbj0Fy_C3GAFYZvAAocEw4d3t4378.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAaSoPAAwmNW0QQ1M938.png120x120.jpg"],
+            "photoDesSmall" : "//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png80x80.png",
+            "version" : ["HIFI 解码耳放" , "HiFi 解码耳放 PRO"]
         }
     ]
 }

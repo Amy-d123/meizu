@@ -1,6 +1,6 @@
 
 
-define(['jquery' , '../server/main' , './modules/head' , './modules/banner' , './modules/goods'],function($ , { getBannerData , getGoodsData , isLogin } , {headInit} , { bannerInit } , { goodsInit }){
+define(['jquery' , '../server/main' , './modules/head' , './modules/banner' , './modules/goods'],function($ , { getBannerData , getGoodsData , isLogin } , { headInit } , { bannerInit } , { goodsInit }){
 
 
     //首页Banner操作
@@ -20,6 +20,9 @@ define(['jquery' , '../server/main' , './modules/head' , './modules/banner' , '.
 
     getGoodsData('phone').then(function(res){
         goodsInit('phone' , res);
+    });
+    getGoodsData('phone_big').then(function(res){
+        goodsInit('phone_big' , res);
     });
 
     //是否登录
