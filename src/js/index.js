@@ -24,6 +24,9 @@ define(['jquery' , '../server/main' , './modules/head' , './modules/banner' , '.
     getGoodsData('phone_big').then(function(res){
         goodsInit('phone_big' , res);
     });
+    getGoodsData('head').then(function(res){
+        headInit('head' , res);
+    });
 
     //是否登录
 

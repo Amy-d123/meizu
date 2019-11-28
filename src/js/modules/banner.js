@@ -35,9 +35,14 @@ define(['jquery'],function($){
 
     function bannerBind(){
         $banner_dots.on('mousedown','li',function(){
+            // clearInterval()
             $(this).attr('class','').siblings().attr('class','active');
             $banner_imgs.find('li').eq( $(this).index() ).fadeIn().siblings().fadeOut();
         });
+        // setInterval(function(){
+        //     $(this).attr('class','').siblings().attr('class','active');
+        //     $banner_imgs.find('li').eq( $banner_imgs.index() ).fadeIn().siblings().fadeOut();
+        // } , 2000)
     }
 
     return {

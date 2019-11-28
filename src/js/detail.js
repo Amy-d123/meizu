@@ -8,7 +8,7 @@ define(['jquery' , '../server/main' , './modules/cartStorage'],function($ , { ge
    //console.log(type , id);
 
    getDetailData(type , id).then((res)=>{
-    //    console.log(res)
+    //    console.log(type)
         detailInit(res);
    });
 
