@@ -8,6 +8,7 @@
             "goodsId" : "1212",
             "goodsName" : "配件狂欢购",
             "goodsDescribe" : "领券最高可减100元",
+            "goodsInfo":["//openfile.meizu.com/group1/M00/07/83/Cgbj0V3DeKuAdyMMAAj2x06h3CM778.jpg" , "//openfile.meizu.com/group1/M00/07/81/Cgbj0V2yYkGAK135AAW_3SGgego084.jpg" , "//openfile.meizu.com/group1/M00/07/81/Cgbj0V20SHOAApUaAAZExM4CFnE593.jpg" , "//openfile.meizu.com/group1/M00/07/7D/Cgbj0V2v676AYyOJAAuGNn-rKzI233.jpg" , "//openfile.meizu.com/group1/M00/07/87/Cgbj0V3XPZeABovpAAdGLQ81hu4821.jpg" , "//openfile.meizu.com/group1/M00/07/67/Cgbj0F2v68mAM4OEAAXaEIjn9AQ047.jpg" , "//openfile.meizu.com/group1/M00/07/7D/Cgbj0V2v686AcULLAAvyV1l1cP0055.jpg"],
             "photoLarge" : ["https://openfile.meizu.com/group1/M00/07/86/Cgbj0V3U5EaALDQfAAYqtEeMFO4721.jpg" , "https://openfile.meizu.com/group1/M00/07/65/Cgbj0F2uvk-AET0FAAP8IGj64HY639.jpg" , "https://openfile.meizu.com/group1/M00/07/7B/Cgbj0V2uvkCAH_i3AAUzVM4qS-8805.jpg" , "https://openfile.meizu.com/group1/M00/07/7B/Cgbj0V2uvkWAJeRcAAJKYi9d7Cs528.jpg"],
             "photoLargeTitle" : "魅族 HD60 头戴式蓝牙耳机",
             "photoLargeDes" : "40mm生物振膜  | Type-C充电",
@@ -29,6 +30,7 @@
             "goodsPrice" : 1999,
             "goodsColor" : ["鲸跃蓝","湖光绿","日光橙"],
             "goodsDescribe" : "日光橙限量现货开售",
+            "goodsInfo":["//openfile.meizu.com/group1/M00/07/83/Cgbj0V3DeKuAdyMMAAj2x06h3CM778.jpg" , "//openfile.meizu.com/group1/M00/07/81/Cgbj0V2yYkGAK135AAW_3SGgego084.jpg" , "//openfile.meizu.com/group1/M00/07/81/Cgbj0V20SHOAApUaAAZExM4CFnE593.jpg" , "//openfile.meizu.com/group1/M00/07/7D/Cgbj0V2v676AYyOJAAuGNn-rKzI233.jpg" , "//openfile.meizu.com/group1/M00/07/87/Cgbj0V3XPZeABovpAAdGLQ81hu4821.jpg" , "//openfile.meizu.com/group1/M00/07/67/Cgbj0F2v68mAM4OEAAXaEIjn9AQ047.jpg" , "//openfile.meizu.com/group1/M00/07/7D/Cgbj0V2v686AcULLAAvyV1l1cP0055.jpg"],
             "photoLarge" : ["//openfile.meizu.com/group1/M00/07/70/Cgbj0F3U60-AK1TiAAi2bv3GS9Q805.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/86/Cgbj0V3U5-GAZ8OiAAR7AHDl4qY695.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upy-AHO-iAASbAcADm5w480.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upyeAP-XCAAIGW8_W4LU613.png680x680.jpg"],
             "photoSmall" : ["//openfile.meizu.com/group1/M00/07/70/Cgbj0F3U60-AK1TiAAi2bv3GS9Q805.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/86/Cgbj0V3U5-GAZ8OiAAR7AHDl4qY695.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upy-AHO-iAASbAcADm5w480.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upyeAP-XCAAIGW8_W4LU613.png120x120.jpg"],
             "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upxqANyVFAAjApUYA58w668.png80x80.png" , "//openfile.meizu.com/group1/M00/07/62/Cgbj0F2upwyAKqQSAAlGpvLiEdc809.png80x80.png" , "//openfile.meizu.com/group1/M00/07/87/Cgbj0V3U7gOAPBz7AAi2bv3GS9Q690.png80x80.png"]
@@ -41,6 +43,7 @@
             "goodsPrice" : 2699,
             "goodsColor" : ["黑之谧镜","梦幻独角兽","暮光森林" , "白色物语"],
             "goodsDescribe" : "暮光森林来了",
+            "goodsInfo":["//openfile.meizu.com/group1/M00/07/83/Cgbj0V3DeKuAdyMMAAj2x06h3CM778.jpg" , "//openfile.meizu.com/group1/M00/07/81/Cgbj0V2yYkGAK135AAW_3SGgego084.jpg" , "//openfile.meizu.com/group1/M00/07/81/Cgbj0V20SHOAApUaAAZExM4CFnE593.jpg" , "//openfile.meizu.com/group1/M00/07/7D/Cgbj0V2v676AYyOJAAuGNn-rKzI233.jpg" , "//openfile.meizu.com/group1/M00/07/87/Cgbj0V3XPZeABovpAAdGLQ81hu4821.jpg" , "//openfile.meizu.com/group1/M00/07/67/Cgbj0F2v68mAM4OEAAXaEIjn9AQ047.jpg" , "//openfile.meizu.com/group1/M00/07/7D/Cgbj0V2v686AcULLAAvyV1l1cP0055.jpg"],
             "photoLarge" : ["//openfile.meizu.com/group1/M00/07/70/Cgbj0F3U60-AK1TiAAi2bv3GS9Q805.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jht2AQ8pwAAMgtAqoM4E365.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuWATWiEAAU9adhvEJs606.png680x680.jpg" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhuCAAGfqAAKANIM7ChM406.png680x680.jpg"],
             "photoSmall" : ["//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuqADaMyAAlvEHNfjUE482.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jht2AQ8pwAAMgtAqoM4E365.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuWATWiEAAU9adhvEJs606.png120x120.jpg" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhuCAAGfqAAKANIM7ChM406.png120x120.jpg"],
             "photoDesSmall" : ["//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhtuAa71pAAd3EPLUA9Q862.png80x80.png" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhtuAa71pAAd3EPLUA9Q862.png80x80.png" , "//openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuqADaMyAAlvEHNfjUE482.png80x80.png" , "//openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhs-AUdjQAAliy8tVZ28415.png80x80.png"]
@@ -51,10 +54,11 @@
             "goodsId" : "1414",
             "goodsName" : "mCycle",
             "goodsDescribe" : "以旧换新",
+            "goodsInfo":["//openfile.meizu.com/group1/M00/07/83/Cgbj0V3DeKuAdyMMAAj2x06h3CM778.jpg" , "//openfile.meizu.com/group1/M00/07/81/Cgbj0V2yYkGAK135AAW_3SGgego084.jpg" , "//openfile.meizu.com/group1/M00/07/81/Cgbj0V20SHOAApUaAAZExM4CFnE593.jpg" , "//openfile.meizu.com/group1/M00/07/7D/Cgbj0V2v676AYyOJAAuGNn-rKzI233.jpg" , "//openfile.meizu.com/group1/M00/07/87/Cgbj0V3XPZeABovpAAdGLQ81hu4821.jpg" , "//openfile.meizu.com/group1/M00/07/67/Cgbj0F2v68mAM4OEAAXaEIjn9AQ047.jpg" , "//openfile.meizu.com/group1/M00/07/7D/Cgbj0V2v686AcULLAAvyV1l1cP0055.jpg"],
             "goodsLargeImg" : ["http://img.ihuigo.com/goods_d/482308228a09e38efa91ba6e4e06f66f.jpg" , "https://static.aihuishou.com/image?file=54acd5bcff0480502a00006d" , "http://img.ihuigo.com/goods_d/d71cbd2f59003b435b4591c44ab08b81.jpg" , "https://static.aihuishou.com/image?file=5a3396936749e1c016000107" , "https://static.aihuishou.com/image?file=5a33960810a81c00000002cd" , "http://img.ihuigo.com/goods_d/194bc14db81c20b3b305e38a1d62c1d4.png" , "https://static.aihuishou.com/image?file=5a33973010a81c00000002f5" , "https://static.aihuishou.com/image?file=5a33976310a81c00000002fd"],
             "goodsTitle" : ["魅族 MX4" , "魅蓝 Note" , "魅族 MX4 Pro" , "魅蓝 2" , "魅族 PRO 5" , "魅蓝 Metal" , "魅族 MX5" , "魅蓝 Note3"],
             "goodsDes" : ["近期回收最高价 ￥" , ""],
-            "goodsPrice" : [40 , 50 , 45 , 55 , 60 , 65 , 70 , 75  ]
+            "goodsPrice" : [40]
 
 
         }

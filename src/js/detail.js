@@ -8,6 +8,7 @@ define(['jquery' , '../server/main' , './modules/cartStorage'],function($ , { ge
    //console.log(type , id);
 
    getDetailData(type , id).then((res)=>{
+    //    console.log(res)
         detailInit(res);
    });
 
@@ -28,7 +29,7 @@ define(['jquery' , '../server/main' , './modules/cartStorage'],function($ , { ge
                 <p>价 格 <span class="detail_message_price">¥${data.goodsPrice}.00</span></p>
                 <p>选择颜色 
                     ${
-                        data.chooseColor.map((v,i)=>{
+                        data.goodsColor.map((v,i)=>{
                             if(i==0){
                                 return `<span class="detail_message_box active">${v}</span>`;
                             }
@@ -50,7 +51,7 @@ define(['jquery' , '../server/main' , './modules/cartStorage'],function($ , { ge
             </div>
         `;
         var tmp2 = `
-            <h3>-- 商品详情 --</h3>
+            <h3>商品详情</h3>
             ${
                 data.goodsInfo.map((v,i)=>{
                     return `<img src="${v}" alt="">`;
@@ -59,66 +60,66 @@ define(['jquery' , '../server/main' , './modules/cartStorage'],function($ , { ge
         `;
         $detail.html(tmp);
         $detailGoods.html(tmp2);
-        magnifier();
+        // magnifier();
         chooseColor();
         chooseNumber();
         addCart(data);
    }
 
    //放大镜
-   function magnifier(){
-        let $detail_gallery_normal = $detail.find('.detail_gallery_normal');
-        let $detail_gallery_large = $detail.find('.detail_gallery_large');
-        var $largeImg = $detail_gallery_large.find('img');
+//    function magnifier(){
+//         let $detail_gallery_normal = $detail.find('.detail_gallery_normal');
+//         let $detail_gallery_large = $detail.find('.detail_gallery_large');
+//         var $largeImg = $detail_gallery_large.find('img');
 
-        $detail_gallery_normal.hover(function(ev){
-            let $span = $(this).find('span');
-            $span.css({
-                left : ev.pageX - $(this).offset().left - $span.width()/2,
-                top : ev.pageY - $(this).offset().top - $span.height()/2
-            });
-            $span.show();
-            $detail_gallery_large.show();
-        },function(){
-            let $span = $(this).find('span');
-            $span.hide();
-            $detail_gallery_large.hide();
-        }).mousemove(function(ev){
+//         $detail_gallery_normal.hover(function(ev){
+//             let $span = $(this).find('span');
+//             $span.css({
+//                 left : ev.pageX - $(this).offset().left - $span.width()/2,
+//                 top : ev.pageY - $(this).offset().top - $span.height()/2
+//             });
+//             $span.show();
+//             $detail_gallery_large.show();
+//         },function(){
+//             let $span = $(this).find('span');
+//             $span.hide();
+//             $detail_gallery_large.hide();
+//         }).mousemove(function(ev){
 
-            let $span = $(this).find('span');
-            let L = ev.pageX - $(this).offset().left - $span.width()/2;
-            let T = ev.pageY - $(this).offset().top - $span.height()/2;4
+//             let $span = $(this).find('span');
+//             let L = ev.pageX - $(this).offset().left - $span.width()/2;
+//             let T = ev.pageY - $(this).offset().top - $span.height()/2;4
 
-            if(L<0){
-                L = 0;
-            }
-            else if(L > $(this).width() - $span.width()){
-                L = $(this).width() - $span.width();
-            }
-            if(T<0){
-                T = 0;
-            }
-            else if(T > $(this).height() - $span.height()){
-                T = $(this).height() - $span.height();
-            }
+//             if(L<0){
+//                 L = 0;
+//             }
+//             else if(L > $(this).width() - $span.width()){
+//                 L = $(this).width() - $span.width();
+//             }
+//             if(T<0){
+//                 T = 0;
+//             }
+//             else if(T > $(this).height() - $span.height()){
+//                 T = $(this).height() - $span.height();
+//             }
 
-            $span.css({
-                left : L,
-                top : T
-            });
+//             $span.css({
+//                 left : L,
+//                 top : T
+//             });
 
-            let scaleX = L / ($(this).width() - $span.width());  //0~1
-            let scaleY = T / ($(this).height() - $span.height());  //0~1
+//             let scaleX = L / ($(this).width() - $span.width());  //0~1
+//             let scaleY = T / ($(this).height() - $span.height());  //0~1
 
             
-            $largeImg.css({
-                left : - scaleX * ( $largeImg.width() - $detail_gallery_large.width() ),
-                top : - scaleY * ( $largeImg.height() - $detail_gallery_large.height() )
-            });
+//             $largeImg.css({
+//                 left : - scaleX * ( $largeImg.width() - $detail_gallery_large.width() ),
+//                 top : - scaleY * ( $largeImg.height() - $detail_gallery_large.height() )
+//             });
 
-        });
+//         });
 
-   }
+//    }
    //选择商品颜色
    function chooseColor(){
         var $detail_message_box = $detail.find('.detail_message_box');
