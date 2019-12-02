@@ -1,5 +1,4 @@
 define(['jquery' , '../server/main' , './modules/cartStorage'],function($ , { getDetailData } , { addCartStorage }){
-
    var type = window.location.search.match(/type=([^&]+)/)[1];
    var id = window.location.search.match(/id=([^&]+)/)[1];
    var $detail = $('#detail');

@@ -2,20 +2,13 @@
 
 define(['jquery'] , function($){
     $head_nav = $('.head_nav')
-    // $head_nav_li = $head_nav.find('li')
-    // console.log($head_nav_li)
     $meizu_header_sub_warp = $('.meizu-header-sub-warp')
     $meizu_header_sub = $('.meizu-header-sub')
     $meizu_head_sub = $(".meizu_head_sub")
-    $head_logo = $('.head_logo')
+    $head_logo = $('.head_logo img')
     $head = $('#head')
+    $head_nav_mine_icon = ('.head_nav_mine_icon')
     function headInit(type , data){
-        // console.log(type)
-        // if(type=="head"){
-            
-        // }else if(type=="head2"){
-        //     type=="listen"
-        // }
             let tmp4 = `
             ${
                 data.goods_list.map((v,i)=>{
@@ -47,11 +40,13 @@ define(['jquery'] , function($){
             $meizu_header_sub_warp.css("background" , "white");
             $meizu_header_sub.attr('class' , "meizu-header-sub container meizu-header-sub-show")
             $meizu_header_sub.css('opacity' , '1')
+            $head_nav_mine_icon.css('background-image' , "url('../../me.png')")
         });
         $meizu_header_sub.on('mouseleave', function(){
             $(this).css({
                 color : ''
             });
+            $head_logo.attr('src' , '../../static/logo.png')
             $head.css('background' , '')
             $head_nav.find('li').css('color' , '')
             $meizu_header_sub_warp.css("background" , "");
